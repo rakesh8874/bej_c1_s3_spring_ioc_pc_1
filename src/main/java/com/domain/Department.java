@@ -1,5 +1,6 @@
 package com.domain;
 
+//This is pojo class
 public class Department {
     private String employeeDepartment;
     private String employeeDesignation;
